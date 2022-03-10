@@ -2,7 +2,7 @@
 
 # Search Replace
 
-Script is placed in the parent folder of items you want to seach and replace. First it loops though all folders, once it finds the file in the folder with your given extension, it then loops though the lines of code till it finds the search patten, it then replaces the search patten with your replacement.
+Script is placed in the parent folder of items you want to search and replace. First it loops though all folders, once it finds the file in the folder with your given extension, it then loops though the lines of code till it finds the search pattern, it then replaces the search pattern with your replacement.
 
 1. Place script in parent folder
 2. run `bash search-replace` in terminal
